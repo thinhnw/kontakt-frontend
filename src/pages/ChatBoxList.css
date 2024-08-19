@@ -1,0 +1,20 @@
+.chatbox-list-container {
+  padding: 20px;
+}
+
+.chatbox-list li {
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #fff;
+  border-radius: 4px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.chatbox-list li a {
+  font-size: 18px;
+  color: #007bff;
+}
+
+.chatbox-list li a:hover {
+  color: #0056b3;
+}
